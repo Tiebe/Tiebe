@@ -4,6 +4,8 @@
 
 Hi
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tiebe&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!-- Light Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
@@ -24,6 +26,4 @@ Hi
 </a>
 </div>
 
-<div align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tiebe&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
+
