@@ -1,9 +1,5 @@
 ### Hey 👋, I'm Tiebe
 
-[![Github](https://img.shields.io/github/followers/Tiebe?label=Follow&style=social)](https://github.com/Tiebe)
-
-Hi
-
 <!-- Light Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
