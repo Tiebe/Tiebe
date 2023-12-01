@@ -2,7 +2,7 @@
 
 <!-- Light Mode -->
 <div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<a href="#gh-light-mode-only">
 <img height=200 src="https://github-readme-stats-suuz-mi4yu5ro4-tiebe111.vercel.app/api/top-langs/?username=Tiebe&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="Tiebe's Language stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
