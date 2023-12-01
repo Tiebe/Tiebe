@@ -7,7 +7,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats-suuz-mi4yu5ro4-tiebe111.vercel.app/api?username=Tiebe&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=dark"
+    srcset="https://github-readme-stats-suuz-mi4yu5ro4-tiebe111.vercel.app/api?username=Tiebe&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
