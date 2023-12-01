@@ -28,3 +28,14 @@
   />
   <img src="https://github-readme-stats-suuz-mi4yu5ro4-tiebe111.vercel.app/api/top-langs/?username=Tiebe&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR" />
 </picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
